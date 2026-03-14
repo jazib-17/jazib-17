@@ -1,7 +1,7 @@
 <h1 align="center">Hey, I'm Jazib 👋</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Cairo&weight=700&size=22&pause=1000&color=547DEC&center=true&vCenter=true&width=435&lines=Fifth+Year+CS+%40+Queen's+University;F1+%26+Data+Analysis+Enthusiast;Based+in+Toronto%2C+Canada" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Cairo&weight=700&size=22&pause=1000&color=547DEC&center=true&vCenter=true&width=435&lines=Fifth+Year+CS+%40+Queen's+University;F1+%26+Data+Analysis+Enthusiast" alt="Typing SVG" />
 </p>
 
 ---
@@ -9,7 +9,6 @@
 ### 👤 About Me
 
 - 🎓 Fifth year **Computing, Mathematics & Analytics** student at **Queen's University**
-- 🏠 Based in **Toronto, Canada**
 - 🏎️ Huge **F1 fan** — I attended the 2023 Canadian Grand Prix
 - 📷 Into **photography & cinematography**
 - 🎱 Enjoy **snooker** in my downtime
