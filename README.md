@@ -11,7 +11,7 @@
 - 🎓 Fifth year **Computing, Mathematics & Analytics** student at **Queen's University**
 - 🏎️ Huge **F1 fan** — I attended the 2023 Canadian Grand Prix
 - 📷 Into **photography & cinematography**
-- 🎱 Enjoy **snooker** in my downtime
+- 🎱 Enjoy **pool/snooker** in my downtime
 - 📊 Certified in **Tableau, R, and Excel**
 
 ---
