@@ -10,8 +10,8 @@
 
 - 🎓 Fifth year **Computing, Mathematics & Analytics** student at **Queen's University**
 - 🏎️ Huge **F1 fan** — I attended the 2023 Canadian Grand Prix
-- 📷 Into **photography & cinematography**
-- 🎱 Enjoy **pool/snooker** in my downtime
+- 📷 I'm into **photography & cinematography**
+- 🎱 I enjoy **pool/snooker** in my downtime
 - 📊 Certified in **Tableau, R, and Excel**
 
 ---
@@ -35,7 +35,7 @@
 - 🌐 **[Portfolio Website](https://github.com/jazib-17)** — Built with HTML, CSS & JS. Features scroll-reveal animations and a custom loading screen.
 - 📱 **[Android Game](https://play.google.com/store/apps/details?id=o.r.organize)** — Collaborated on an Android game built in Java.
 - 🏎️ **F1 Laptime Comparison Tool** — Python tool using FastF1 to generate race-pace analysis tables.
-- 🔧 **[Formula SAE Steering Wheel Display](https://github.com/qfsae/zenith)** — C++ graph display for a Formula SAE steering wheel *(in progress)*.
+- 🔧 **[Formula SAE Steering Wheel Display](https://github.com/qfsae/zenith)** — C++ graph display for a Formula SAE steering wheel.
 
 ---
 
@@ -47,8 +47,5 @@
   </a>
   <a href="mailto:mail.jazib7537@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-  <a href="https://github.com/jazib-17">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
 </p>
